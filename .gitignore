@@ -23,7 +23,4 @@ local.properties
 
 hs_err_pid*
 
-.idea/SlashDiscord.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+.idea/*
