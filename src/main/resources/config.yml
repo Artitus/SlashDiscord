@@ -1,0 +1,23 @@
+##  _______  _        _______  _______               ______  _________ _______  _______  _______  _______  ______
+## (  ____ \( \      (  ___  )(  ____ \|\     /|    (  __  \ \__   __/(  ____ \(  ____ \(  ___  )(  ____ )(  __  \
+## | (    \/| (      | (   ) || (    \/| )   ( |    | (  \  )   ) (   | (    \/| (    \/| (   ) || (    )|| (  \  )
+## | (_____ | |      | (___) || (_____ | (___) |    | |   ) |   | |   | (_____ | |      | |   | || (____)|| |   ) |
+## (_____  )| |      |  ___  |(_____  )|  ___  |    | |   | |   | |   (_____  )| |      | |   | ||     __)| |   | |
+##       ) || |      | (   ) |      ) || (   ) |    | |   ) |   | |         ) || |      | |   | || (\ (   | |   ) |
+## /\____) || (____/\| )   ( |/\____) || )   ( |    | (__/  )___) (___/\____) || (____/\| (___) || ) \ \__| (__/  )
+## \_______)(_______/|/     \|\_______)|/     \|    (______/ \_______/\_______)(_______/(_______)|/   \__/(______/
+##
+##
+## This is a VERY simple plugin. Just edit the lines! Run /slashdiscord reload and be on your way!
+##
+##
+# Do you want the DiscordCommand to require a permission?
+enable_permission: false
+# What do you want that permission to be?
+permission: slashdiscord.use
+# What do you want to send the player if they don't have permission?
+no_permission_message: '&cYou have no permission for that!'
+# What do you want to display to the player?
+message:
+  - '&f&oThe link to our discord:'
+  - '&d&o- https://discord.gg/XYFk47E'
