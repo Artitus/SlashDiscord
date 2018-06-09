@@ -1,3 +1,4 @@
+##
 ##  _______  _        _______  _______               ______  _________ _______  _______  _______  _______  ______
 ## (  ____ \( \      (  ___  )(  ____ \|\     /|    (  __  \ \__   __/(  ____ \(  ____ \(  ___  )(  ____ )(  __  \
 ## | (    \/| (      | (   ) || (    \/| )   ( |    | (  \  )   ) (   | (    \/| (    \/| (   ) || (    )|| (  \  )
@@ -8,9 +9,11 @@
 ## \_______)(_______/|/     \|\_______)|/     \|    (______/ \_______/\_______)(_______/(_______)|/   \__/(______/
 ##
 ##
-## This is a VERY simple plugin. Just edit the lines! Run /slashdiscord reload and be on your way!
+## This is a rather simple plugin, You just edit the config!
+## After editing config run /slashdiscord reload and be on your way!
 ##
-##
+# Most importantly, would you like to opt out of metrics?
+use_metrics: true
 # Do you want the DiscordCommand to require a permission?
 enable_permission: false
 # What do you want that permission to be?
