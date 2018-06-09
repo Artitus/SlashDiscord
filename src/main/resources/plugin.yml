@@ -1,7 +1,8 @@
 name: SlashDiscord
 main: us.artit.slashdiscord.Main
-version: 0.0.1
+version: 0.1.0
 author: Artitus
-description: Ever just wanted a DiscordCommand to show players your discord that you could configure?
+description: Ever just wanted a command to show players a Discord message you could configure?
 commands:
   discord:
+    description: Replies with a link to the Discord
